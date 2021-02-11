@@ -27,11 +27,13 @@ Birth Year
 most common month
 most common day of week
 most common hour of day
+
 #2 Popular stations and trip
 
 most common start station
 most common end station
 most common trip from start to end (i.e., most frequent combination of start station and end station)
+
 #3 Trip duration
 
 total travel time
@@ -45,7 +47,10 @@ earliest, most recent, most common year of birth (only available for NYC and Chi
 
 
 ### Files used
-Include the files used
+bikeshare.py
+chicago.csv
+new_york_city.csv
+washington.csv
 
 ### Credits
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
