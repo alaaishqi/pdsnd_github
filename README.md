@@ -47,10 +47,14 @@ earliest, most recent, most common year of birth (only available for NYC and Chi
 
 
 ### Files used
-bikeshare.py
-chicago.csv
-new_york_city.csv
+bikeshare.py , 
+
+chicago.csv , 
+
+new_york_city.csv , 
+
 washington.csv
+
 
 ### Credits
 https://pandas.pydata.org/pandas-docs/stable/user_guide/dsintro.html#intro-to-data-structures
